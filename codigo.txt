@@ -1,2 +1,3 @@
+{ background: #fff }
 Aluno - Raimundo Alves - Pinheiro
 nova alteração
